@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Amin
+# Hi there! 👋 I'm [Your Name]
 
 🎓 Recently graduated with a bachelor's degree in Computer Science, with a passion for data analysis and machine learning.
 
@@ -14,10 +14,12 @@
 | ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) | ![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau&logoColor=white) |
 | ![SQL](https://img.shields.io/badge/-SQL-blue?logo=postgresql&logoColor=white) | ![AWS Cloud](https://img.shields.io/badge/-AWS_Cloud-orange?logo=amazon-aws&logoColor=white) |
 
-🚀 **Technologies & Tools:** Laravel, Flask API, Machine Learning, Oracle, Power BI, Tableau, AWS Cloud, ETL, Data Warehouse
+🚀 **Additional technologies:** ETL and Data Warehouse
 
 🤖 My life goal? To create a robot like Baymax in Big Hero 6. A caring companion designed to assist and care for people.
 
+![Baymax GIF](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
+
 📫 **Get in Touch:**
-- Email: [Your Email](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [Your Email](mailto:muhammadamirulamin.is@gmail.com)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammadamirulaminis/))
