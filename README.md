@@ -1,8 +1,17 @@
 ### Hi there, I'm Amin
 
-My name is Muhammad Amirul Amin, just graduated bachelor Degree of Computer Science. I lived with my family in Malaysia. My hobby is to read book, playing game or sometimes just browsing the computer. I'm passionate person to learn new things and try to make one for myself, especially in this machine learning era. Every year, there will be always new technology immerse and everyone try to adapt it. As a person, driven to give positive impact in this field, I'm eager to learn and implement it. Moreover, I'm also a Machine Learning and Robotic enthusiasm. My life goal is to create a robot like Baymax in Big Hero 6. This robot will help, care a lot of people.
+I just graduated with a degree in Computer Science. I enjoy reading, gaming, and browsing the internet. I am really into learning new things, especially in the field of machine learning and robotics. I also passionate about using technology to make a positive impact, and my big dream is to create a helpful robot like Baymax from Big Hero 6 to care for people.
 
-## Languages
+## Skills
+- Data Analysis
+- ETL
+- Data Warehouse
+- Laravel
+- Version Control
+- Microsoft Power BI
+
+## Languages and Tools
+<img alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=react&logoColor=white" />
 
 
 <!--
