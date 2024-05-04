@@ -1,3 +1,6 @@
+<p align="center">
+  <img height="200" width="1000" src="https://github.com/zekth13/zekth13/assets/102340450/81381655-2dde-4d7e-830b-28cf78b1b1b0" alt="Header Image">
+</p>
 <h1>Hi there, I'm Amin</h1>
 
 🎓 Recently graduated with a bachelor's degree in Computer Science, with a passion for data analysis and machine learning.I have experienced with a lot of projects related to data science such as web development, data analysis project, data warehouse and many more. Every project, there will be always new things to learn.
