@@ -1,6 +1,5 @@
-### Hi there, I'm Amin
-
-I just graduated with a degree in Computer Science. I enjoy reading, gaming, and browsing the internet. I am really into learning new things, especially in the field of machine learning and robotics. I also passionate about using technology to make a positive impact, and my big dream is to create a helpful robot like Baymax from Big Hero 6 to care for people.
+ <h1>Hi there, I'm Amin &#9995</h1>
+    <p>I just graduated with a Bachelor's Degree in Computer Science. I lived with my family in Malaysia. My hobbies include reading books 📚, playing games 🎮, and sometimes just browsing the computer 💻. I'm passionate about learning new things and trying to make something for myself, especially in this machine learning era. Every year, there are always new technologies emerging, and I'm eager to learn and implement them. Moreover, I'm also a Machine Learning and Robotics enthusiast. My life goal is to create a robot like Baymax in Big Hero 6. This robot will help and care a lot for people. 🤖</p>
 
 ## Skills
 - Data Analysis
