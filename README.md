@@ -24,14 +24,12 @@
 🤖 My life goal? To create a robot like Baymax in Big Hero 6. A caring companion designed to assist and care for people.
 
 
-📫 **Get in Touch:**
-- Email: [muhammadamirulamin.is@gmail.com](mailto:muhammadamirulamin.is@gmail.com)
-- LinkedIn: [Muhammad Amirul Amin Arman](https://www.linkedin.com/in/muhammadamirulaminis/)
-- <div id="badges">
-  <a href="your-linkedin-URL">
+📫 <h1>Contact</h1>
+<div id="badges">
+  <a href="//www.linkedin.com/in/muhammadamirulaminis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  <a href="muhammadamirulamin.is@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
