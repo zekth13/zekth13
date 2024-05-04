@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Muhammad Amirul Amin, fresh graduate bachelor degree of computer science. I am passionate person who want to give a positive impact in field of technology. I also believes that 99% of hardwork will defeat talent. I'm an expertise in website development, data science, and data warehouse, proven by my experience and project. 
+
 <!--
 **zekth13/zekth13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
