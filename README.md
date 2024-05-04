@@ -1,41 +1,23 @@
-<h1>Hi there, I'm Amin &#9995</h1>
+# Hi there! 👋 I'm Amin
 
-<p>
- I just graduated with a Bachelor's Degree in Computer Science. I'm passionate about learning new things and trying to make something for myself, especially in this machine learning era. Moreover, I'm also a Machine Learning and Robotics enthusiast. My life goal is to create a robot like Baymax in Big Hero 6. This robot will help and care a lot for people. 🤖
-</p>
+🎓 Recently graduated with a bachelor's degree in Computer Science, with a passion for data analysis and machine learning.
 
-## Skills
-- Data Analysis
-- ETL
-- Data Warehouse
-- Laravel
-- Version Control
-- Microsoft Power BI
-- Web Development
+🌟 **Languages & Technologies:**
 
-## Languages and Tools
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=sql&logoColor=white" />
-</p>
+| Languages         | Technologies          |
+|-------------------|-----------------------|
+| ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) | ![Flask API](https://img.shields.io/badge/-Flask_API-lightgrey?logo=flask&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-green?logo=pytorch&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) | ![Oracle](https://img.shields.io/badge/-Oracle-red?logo=oracle&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power_BI-yellow?logo=powerbi&logoColor=white) |
+| ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) | ![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/-SQL-blue?logo=postgresql&logoColor=white) | ![AWS Cloud](https://img.shields.io/badge/-AWS_Cloud-orange?logo=amazon-aws&logoColor=white) |
 
+🚀 **Technologies & Tools:** Laravel, Flask API, Machine Learning, Oracle, Power BI, Tableau, AWS Cloud, ETL, Data Warehouse
 
-<!--
-**zekth13/zekth13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 My life goal? To create a robot like Baymax in Big Hero 6. A caring companion designed to assist and care for people.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Get in Touch:**
+- Email: [Your Email](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
