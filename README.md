@@ -27,3 +27,11 @@
 📫 **Get in Touch:**
 - Email: [muhammadamirulamin.is@gmail.com](mailto:muhammadamirulamin.is@gmail.com)
 - LinkedIn: [Muhammad Amirul Amin Arman](https://www.linkedin.com/in/muhammadamirulaminis/)
+- <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
