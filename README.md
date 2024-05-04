@@ -9,9 +9,16 @@ I just graduated with a degree in Computer Science. I enjoy reading, gaming, and
 - Laravel
 - Version Control
 - Microsoft Power BI
+- Web Development
 
 ## Languages and Tools
 <img alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=react&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=react&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=react&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=react&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=react&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=react&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=react&logoColor=white" />
 
 
 <!--
