@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Amin
 
-My name is Muhammad Amirul Amin, fresh graduate bachelor degree of computer science. I am passionate person who want to give a positive impact in field of technology. I also believes that 99% of hardwork will defeat talent. I'm an expertise in website development, data science, and data warehouse, proven by my experience and project. 
+My name is Muhammad Amirul Amin, just graduated bachelor Degree of Computer Science. I lived with my family in Malaysia. My hobby is to read book, playing game or sometimes just browsing the computer. I'm passionate person to learn new things and try to make one for myself, especially in this machine learning era. Every year, there will be always new technology immerse and everyone try to adapt it. As a person, driven to give positive impact in this field, I'm eager to learn and implement it. Moreover, I'm also a Machine Learning and Robotic enthusiasm. My life goal is to create a robot like Baymax in Big Hero 6. This robot will help, care a lot of people.
+
+## Languages
+
 
 <!--
 **zekth13/zekth13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
