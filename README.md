@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Amin
+<h1>Hi there, I'm Amin</h1>
 
 🎓 Recently graduated with a bachelor's degree in Computer Science, with a passion for data analysis and machine learning.I have experienced with a lot of projects related to data science such as web development, data analysis project, data warehouse and many more. Every project, there will be always new things to learn.
 
@@ -6,7 +6,7 @@
   <img align="right" top="500" height="400" width="600" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-🌟 **Languages & Technologies:**
+<h2>🌟 Languages and Technologies</h2>
 
 | Languages         | Technologies          |
 |-------------------|-----------------------|
@@ -17,14 +17,15 @@
 | ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power_BI-yellow?logo=powerbi&logoColor=white) |
 | ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) | ![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau&logoColor=white) |
 | ![SQL](https://img.shields.io/badge/-SQL-blue?logo=postgresql&logoColor=white) | ![AWS Cloud](https://img.shields.io/badge/-AWS_Cloud-orange?logo=amazon-aws&logoColor=white) |
+||![ETL](https://img.shields.io/badge/-etl-yellow?logo=etl&logoColor=white)|
+||![Data Warehouse](https://img.shields.io/badge/-datawarehouse-green?logo=data-warehouse&logoColor=white)|
 
 
-🚀 **Additional technologies:** ETL and Data Warehouse
+<h2>🤖 My life goal</h2>
+To create a robot like Baymax in Big Hero 6. A caring companion designed to assist and care for people.
 
-🤖 My life goal? To create a robot like Baymax in Big Hero 6. A caring companion designed to assist and care for people.
 
-
-📫 <h1>Contact</h1>
+<h2>📫 Contact</h2>
 <div id="badges">
   <a href="//www.linkedin.com/in/muhammadamirulaminis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
