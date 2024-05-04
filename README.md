@@ -21,5 +21,5 @@
 ![Baymax GIF](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
 
 📫 **Get in Touch:**
-- Email: [Your Email](mailto:muhammadamirulamin.is@gmail.com)
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammadamirulaminis/))
+- Email: [muhammadamirulamin.is@gmail.com](mailto:muhammadamirulamin.is@gmail.com)
+- LinkedIn: [Muhammad Amirul Amin Arman](https://www.linkedin.com/in/muhammadamirulaminis/)
