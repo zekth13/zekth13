@@ -3,7 +3,7 @@
 🎓 Recently graduated with a bachelor's degree in Computer Science, with a passion for data analysis and machine learning.I have experienced with a lot of projects related to data science such as web development, data analysis project, data warehouse and many more. Every project, there will be always new things to learn.
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="500" width="700" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 🌟 **Languages & Technologies:**
@@ -23,7 +23,6 @@
 
 🤖 My life goal? To create a robot like Baymax in Big Hero 6. A caring companion designed to assist and care for people.
 
-![Baymax GIF](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif)
 
 📫 **Get in Touch:**
 - Email: [muhammadamirulamin.is@gmail.com](mailto:muhammadamirulamin.is@gmail.com)
