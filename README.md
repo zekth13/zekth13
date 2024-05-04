@@ -3,7 +3,7 @@
 🎓 Recently graduated with a bachelor's degree in Computer Science, with a passion for data analysis and machine learning.I have experienced with a lot of projects related to data science such as web development, data analysis project, data warehouse and many more. Every project, there will be always new things to learn.
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="600" height="400" width="500" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 <h2>🌟 Languages and Technologies</h2>
