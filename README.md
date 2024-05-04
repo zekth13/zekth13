@@ -1,6 +1,3 @@
-<p align="center">
-  <img height="200" width="1000" src="https://github.com/zekth13/zekth13/assets/102340450/81381655-2dde-4d7e-830b-28cf78b1b1b0" alt="Header Image">
-</p>
 <h1>Hi there, I'm Amin</h1>
 
 🎓 Recently graduated with a bachelor's degree in Computer Science, with a passion for data analysis and machine learning.I have experienced with a lot of projects related to data science such as web development, data analysis project, data warehouse and many more. Every project, there will be always new things to learn.
@@ -11,7 +8,7 @@
 
 <h2>🌟 Languages and Technologies</h2>
 
-| Languages         | Technologies          |
+| <p>Languages<p>         | <p>Technologies</p>          |
 |-------------------|-----------------------|
 | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) | ![Flask API](https://img.shields.io/badge/-Flask_API-lightgrey?logo=flask&logoColor=white) |
@@ -24,8 +21,7 @@
 ||![Data Warehouse](https://img.shields.io/badge/-datawarehouse-green?logo=data-warehouse&logoColor=white)|
 
 
-<h2>🤖 My life goal</h2>
-To create a robot like Baymax in Big Hero 6. A caring companion designed to assist and care for people.
+![](https://github-readme-stats.vercel.app/api?username=zekth13&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 
 
 <h2>📫 Contact</h2>
