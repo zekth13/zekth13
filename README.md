@@ -1,9 +1,8 @@
 <h1>Hi there, I'm Amin</h1>
 
 <p align="center">
-  <img height="400" width="1000" src="https://github.com/zekth13/zekth13/assets/102340450/08d6deba-ef34-4a87-9e07-a92915a71a73" alt="Header Image">
+  <img height="400" width="1000" src="https://github.com/zekth13/zekth13/assets/102340450/0d785491-9cfa-4a5a-88ad-0526808e6154" alt="Header Image">
 </p>
-![1](https://github.com/zekth13/zekth13/assets/102340450/08d6deba-ef34-4a87-9e07-a92915a71a73)
 
 🎓 Recently graduated with a bachelor's degree in Computer Science, with a passion for data analysis and machine learning.I have experienced with a lot of projects related to data science such as web development, data analysis project, data warehouse and many more. Every project, there will be always new things to learn.
 
